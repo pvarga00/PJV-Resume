@@ -45,8 +45,9 @@ I am passionate about efficiency, availability, technical quality and system qua
 X+ years of Software Engineering experience
 3+ years of Leadership experience
 X+ years of strong design experience in Design Patterns, ATDD/BDD/TDD, Domain Driven Design, and Functional Decomposition into Architectural Design Patterns and Robust Systems.
-X+ years of experience in Java API. Microservices, Containers, Databases (Oracle, Mongo), and Kafka/ MQ
-X+ years of CICD tools (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI) experience
+X+ years of experience in Java API. 
+X+ years of experience with Microservices, Containers, Databases (Oracle, Mongo), and Kafka/ MQ
+X+ years of CI/CD tooling experience (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI)
 X+ years of Cloud experience
 X+ years of Agile Methodology
 Ability to deliver and engage with partners effectively in a multi-cultural environment by demonstrating co-ownership and accountability.
@@ -150,6 +151,8 @@ Quality Assurance Lead for various projects and teams, testing software througho
 EDUCATION:
 - Masters of Science in Information Systems: Lawrence Technological University - Southfield, MI (1999 - 2001)
 - Bachelor of Science in Electrical Engineering: Lawrence Technological University - Southfield, MI (1994 - 1998)
+- Certified SOA Architect (2017)
+- I/ASTQB Certified (2011)
 
 
 SUMMARY OF TECHNICAL SKILLS:
