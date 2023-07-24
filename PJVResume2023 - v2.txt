@@ -8,12 +8,11 @@ GitHubEnterprise: https://github.com/pvarga00 & https://github.com/peterquicken
 
 PROFESSIONAL SUMMARY:
 
-I am an accomplished Software Quality Engineer, full-stack Software Engineer, Enterprise Architect (Quality/SOA focus), and Technical Leader/Manager.
+I am an accomplished Software Quality Engineer, full-stack Software Engineer, Enterprise Architect (Quality/SOA/API focuses), and Technical Leader/Manager.
 
 I have over 26 years of professional experience in software development, quality assurance, business analysis, large-scale work management and implementation, and large-scale project management (enterprise-wide and cross-company).	
 
-I have a proven track record in effectively coordinating, managing, and leading both: individual team members, as well as enterprise-wide programs and initiatives. My goal is to not only to satisfy the needs and requirements of our clients, but also to delight and amaze them with quality solutions delivered for their needs.
-
+I have a proven track record in effectively coordinating, managing, and leading both: individual team members, as well as enterprise-wide programs and initiatives.
 
 PROFESSIONAL EXPERIENCE:
 Rocket Mortgage (Quicken Loans) Detroit, MI (2013 - 2023)
@@ -23,47 +22,74 @@ Team Leader - Architecture (2020 - 2023)
 
 Enterprise Quality Architect (2014 - 2020)
 
-Experienced Software Engineering Manager responsible for delivering innovative, large-scale retail mortgage originations capabilities. The manager will be responsible for guiding several agile teams to focus on improving the customer experience, making the applications and services supported more configurable, resilient and scalable, accelerating and improving the quality of the teams' development efforts and developing each engineer to contribute to each high-performing team.
+Experienced Software Engineering Leader responsible for delivering innovative, large-scale retail mortgage originations capabilities. 
 
-Manage, coach, and develop a team of individual contributor engineer roles with low to moderate complexity and less experienced managers who are responsible for building high quality capabilities with modern technology
-Ensure adherence to the Banking Platform Architecture, and meeting non-functional requirements with each release
-Engage with architects and experienced engineers to incorporate Wells Fargo Technology technical strategies, while understanding next generation domain architecture to enable application migration paths to target architecture; for example, cloud readiness, application modernization and data strategy
-Function as the technical representative for the product during cross-team collaborative efforts and planning
+I was responsible for guiding my agile team to focus on improving the Quality of the entire enterprise, ensuring positive clients experiences, making all of the Rocket Mortgage 6000+ applications and services supported of higher quality, more proficient, more configurable, more resilient and scalable, and more performant.
+
+My team provided best practices and industry standards, accelerating and improving the quality of other development teams' efforts, by developing/encouraging each engineer to growing their knowledge, skills, and behaviors.
+
+I have lead, coached, and developed a team of individual contributor engineer roles with moderate to high complexity. 
+
+I actively mentored less experienced leaders, who are also responsible for building high quality capabilities with modern technology.
+
+Engaged with architects and experienced engineers to incorporate Rocket Mortgage Technology technical strategies, while understanding next generation domain architectures, to enable application migration paths to target architecture; for example, cloud readiness, application modernization and data strategy
+
+Functioned as the technical representative for the product during cross-team collaborative efforts and planning.
+
 Identify and recommend opportunities for driving resolution of technology roadblocks including code, build and deployment while also managing overall software development cycle and security standards
-Act as an escalation partner for scrum masters and the teams to make decisions and help remove impediments, obstacles, and friction while encouraging constant learning, experimentation, and continual improvement culture
-Build engineering skills side-by-side in the codebase, conduct peer reviews to evaluate quality and solution alignment to technical direction, and guide design, as needed
-Interpret, develop, and ensure security, stability, and scalability within functions of technology with low to moderate complexity, as well as identify, manage and mitigate technology and enterprise risk
-Collaborate and consult with the Product Managers/Product Owners to drive user satisfaction, influence technology requirements and priorities in the product roadmap, promote innovative and intelligent solutions, generate corporate value and articulate technical strategy while being a solid advocate of agile and DevOps practices.
-Interact directly with third party vendors and technology service providers.
-Manage allocation of people and financial resources for technology engineering including career development and performance management for engineers and managers on the team
 
-3+ years of engineering management experience, with 9+ years of relevant software development industry experience in a fast paced tech environment.
-I am have excellent communication skills and the ability to work well within a team and with teams across the engineering organization
+Acted as an escalation partner for scrum masters and the teams to make decisions and help remove impediments, obstacles, and friction while encouraging constant learning, experimentation, and continual improvement culture
+
+Built engineering skills side-by-side in the codebase, conduct peer reviews to evaluate quality and solution alignment to technical direction, and guide design, as needed
+
+Interpreted, developed, and ensured: security, stability, and scalability within functions of technology with moderate to high complexity, as well as identifying, managing and mitigating technology and enterprise risk
+
+Collaborated and consulted with the Product Managers/Product Owners to drive user satisfaction, influence technology requirements and priorities in the product roadmap, promote innovative and intelligent solutions, generate corporate value and articulate technical strategy while being a solid advocate of agile and DevOps practices.
+
+Interacted directly with third party vendors and technology service providers, as well as governmental agencies (Fannie/Freddie, Black Knight, etc.).
+
+Managed allocation of people and financial resources for technology engineering including career development and performance management for business analysts, data engineers, senior software engineers, and other architects on the team.
+
+26+ years of software engineering leadership experience, with relevant software development industry experience in a fast paced tech environment.
+
+I am have excellent communication skills and the ability to work well within a team and with teams across the engineering organization.
+
 I am a strong problem solver and have led a team that is on-call for production systems before.
+
 I am passionate about efficiency, availability, technical quality and system quality.
 
-X+ years of Software Engineering experience
+26+ years of Software Engineering experience
 3+ years of Leadership experience
-X+ years of strong design experience in Design Patterns, ATDD/BDD/TDD, Domain Driven Design, and Functional Decomposition into Architectural Design Patterns and Robust Systems.
-X+ years of experience in Java API. 
-X+ years of experience with Microservices, Containers, Databases (Oracle, Mongo), and Kafka/ MQ
-X+ years of CI/CD tooling experience (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI)
-X+ years of Cloud experience
-X+ years of Agile Methodology
+15+ years of strong design experience in Design Patterns, ATDD/BDD/TDD, Domain Driven Design, and Functional Decomposition into Architectural Design Patterns and Robust Systems.
+10+ years of experience with APIs: desiging, building, deploying, maintaining, and evangelizing best practices (SOA/microservices). 
+10+ years of experience with Microservices, Containers, Databases (Oracle, Mongo), and Pub-Sub messaging (Kafka/ MQ/RabbitMQ)
+10+ years of CI/CD tooling experience (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI)
+5+ years of Cloud experience
+20+ years of Agile (and Waterfall) Methodologies
+
 Ability to deliver and engage with partners effectively in a multi-cultural environment by demonstrating co-ownership and accountability.
+
 Ability to motivate staff to prioritize work, meet deadlines, achieve goals, and work /under pressure in a dynamic and complex environment.
-Experience leading individual contributors both onshore and offshore
-Desired Qualifications:
+
+Experience leading individual contributors both onshore and offshore.
 
 Advanced experience in managing and delivering agile/scrum products in technically, complex environments
+
 Demonstrated team leadership experience including hiring and talent development practices
-Demonstrated experience in managing teams of engineers designing, programming, and deploying solutions for Java and Cloud environments
+
+Demonstrated experience in managing teams of engineers designing, programming, and deploying solutions for On-Prem and Cloud environments
+
 Demonstrated experience in leading strategy roadmap in a large technically complex environment
+
 Demonstrated experience in managing stakeholder relationships across multiple business units or technical domains
+
 Demonstrated ability to manage a diverse, geographically distributed team
 Demonstrated technical experience and hands on experience to help be a key driver in all architectural decisions
+
 Banking or Financial Services experience
+
 Excellent organizational and time management skills
+
 Excellent verbal and written communication skills
 
 
