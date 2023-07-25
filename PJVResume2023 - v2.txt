@@ -1,27 +1,25 @@
 Peter Varga
-pvarga00@gmail.com
-734-673-1827
+pvarga00@gmail.com   |   734-673-1827
 
-LinkedIn: https://www.linkedin.com/in/peter-varga-94592a176/ 
-GitHubEnterprise: https://github.com/pvarga00  & https://github.com/peterquicken 
+LinkedIn: https://www.linkedin.com/in/peter-varga-94592a176/
+GitHub: https://github.com/pvarga00  & https://github.com/peterquicken
 
 
 PROFESSIONAL SUMMARY:
+I am an accomplished Software Quality Engineer, full-stack Software Engineer, Enterprise Architect (Quality | API & SOA focused), and Technical Leader/Manager.
 
-I am an accomplished Software Quality Engineer, full-stack Software Engineer, Enterprise Architect (Quality/SOA/API focuses), and Technical Leader/Manager.
-
-I have over 26 years of professional experience in software development, quality assurance, business analysis, large-scale work management and implementation, and large-scale project management (enterprise-wide and cross-company).	
+I have over 26 years of professional experience in software development, quality assurance, business analysis, large-scale work management and implementation, and large-scale project management (enterprise-wide, and cross-company).
 
 I have a proven track record in effectively coordinating, managing, and leading both: individual team members, as well as enterprise-wide programs and initiatives.
 
 PROFESSIONAL EXPERIENCE:
-Rocket Mortgage (Quicken Loans) Detroit, MI (2013 - 2023)
+Rocket Mortgage Technology [Quicken Loans] - Detroit, MI (2013 - 2023)
 Rocket Mortgage is America’s largest mortgage lender, helping millions achieve the dream of home ownership. They've revolutionized the industry with the world’s very first online mortgage experience.
 
 Team Leader - Architecture (2020 - 2023)
 Experienced Software Engineering Leader responsible for delivering innovative, large-scale retail mortgage originations capabilities. 
 
-I was responsible for guiding my agile team to focus on improving the Quality of the entire enterprise, ensuring positive clients experiences, making all of the Rocket Mortgage 6000+ applications and services supported of higher quality, more proficient, more configurable, more resilient and scalable, and more performant.
+I was responsible for guiding my agile team to focus on improving Quality and Reliability for the entire enterprise, ensuring positive clients experiences, making Rocket Mortgage’s 6000+ applications and services supported of higher quality, more proficient, more configurable, more resilient and scalable, and more performant.
 
 My team provided best practices and industry standards, accelerating and improving the quality of other development teams' efforts, by developing/encouraging each engineer to growing their knowledge, skills, and behaviors.
 
@@ -57,7 +55,6 @@ Acted as an escalation partner for scrum masters and the teams to make decisions
 •	Demonstrated experience in leading strategy roadmap in a large technically complex environment.
 •	Demonstrated experience in managing stakeholder relationships across multiple business units or technical domains.
 •	Demonstrated ability to manage a diverse, geographically distributed team.
-
 
 Enterprise Quality Architect (2014 - 2020)
 Built engineering skills side-by-side in the codebase, conducted peer reviews to evaluate quality and solution alignment to technical direction, and guide design, as needed.
@@ -128,14 +125,13 @@ Responsible for designing, implementing, and conducting:
 •	Business Process Documentation
 •	Test Planning & Strategies (based on industry standards and best practices)
 
-
 Autodesk, Inc. – MCAD Division - Novi, MI (1996 – 2009)
 Autodesk, Inc. is a multi-billion-dollar world leader in 2D and 3D design software for the manufacturing, building & construction, and media & entertainment markets.
 
-Software QA Engineer/Technical Lead (2001 – 2009)
+Software QA Engineer / Technical Lead (2001 – 2009)
 Responsible for the development and quality assurance of Autodesk products; including code reviews, verifying implementation of new functionality, code coverage, creation and implementation of corporate/division QA standards, and project management. 
 •	Managed up to 4 direct reports. Responsible for the management of diverse project teams, and translated high level organizational goals to staff, work tasks, training, and project tracking.
-•	Coded an automated defect investigation to process recursively, returning results in ~1 minute versus 1 hour for the manual method, resulting in an estimated savings $350,000+ annually.
+•	Coded an automated defect investigation to process recursively, returning results in ~1 minute versus 1 hour for the manual method, resulting in an estimated savings of $350,000+ annually.
 •	Implemented interface for the ITI GDX database into Autodesk’s proprietary code, resulting in a long-term project to save $420,000 a year in licensing costs.
 •	Added XML code validation schema for logging output and enhanced error messaging to the Inventor product resulting in development testing and code coverage and acceptance.
 •	Utilized Business Objects to interface to an Oracle 10i database via SQL statements to generate numerous testing reports for strategic planning, forecasting, team load balancing, and timely resource allocation.
@@ -152,80 +148,46 @@ Quality Assurance Lead for various projects and teams, testing software througho
 - Developed and implemented corporate quality assurance standards for testing product performance and reliability; resulting in faster defect resolution, improved team effectiveness, and collaboration.
 - Deep understanding and experience in applying state-of-the-art software quality assurance methods, strategies, concepts, and tools.
 
-
 EDUCATION:
-•	Master of Science in Information Systems: Lawrence Technological University - Southfield, MI (1999 - 2001)
-•	Bachelor of Science in Electrical Engineering: Lawrence Technological University - Southfield, MI (1994 - 1998)
 •	Certified SOA Architect (2017)
 •	I/ASTQB Certified (2011)
-
-
+•	Master of Science in Information Systems: Lawrence Technological University - Southfield, MI (1999 - 2001)
+•	Bachelor of Science in Electrical Engineering: Lawrence Technological University - Southfield, MI (1994 - 1998)
+ 
 SUMMARY OF TECHNICAL SKILLS:
 Development Languages: 	
--	C / C++ / C# / Java / F#
--	Javascript  / Typescript / Python
--	Visual Basic (VB)
--	UML
--	LISP
--	Perl
--	FORTRAN 77
+-	C  | C++ | C# | Java | F# | Javascript  | Typescript | Python | Visual Basic (VB) & VB Script | UML | LISP | Perl | FORTRAN 77 | Bash | GitBash | YML / YAML | Powershell | PHP | Ruby | Node.JS | etc.
 
 Web Development: 	
--	GitHub / GitHub Enterprise
--	Visual Source Safe
--	Apache Web Server / MS IIS
--	Object Oriented Design & Patterns
--	HTML & CSS / XML & XLST / React & Angular
--	Adobe Flash CS4
--	FTP
--	AQTime and profiling tools
--	Clarify / Purify
+-	GitHub & GitHub Enterprise
+-	MS Visual Studio | MS VSCode | PyCharm | Xamarin | Visual Source Safe | etc.
+-	Apache Web Server | MS IIS | FTP | etc.
+-	Object Oriented Design & Patterns (OODs & OOPs) & SOLID Design Patterns | etc.
+-	HTML & CSS & Markdown | XML & XLST & JSON| React & Angular | etc.
+-	Code and memory debugging and profiling tools: VSS | AQTime | Clarify | Purify | etc.
 
 Additional Productivity Tools: 
--	ADS / TFS
--	Atlassian: Confluence, JIRA, etc.
--	MS Office Suite / MS Project
--	Adobe Communicator
--	GotoMeeting
--	Multi-Media/Internet Applications
--	MS Share Point	
+-	Microsoft: MS Visual Studio (MSVS) | Team Foundation Server (ADS/TFS) | MS Test Manager | etc.
+-	Atlassian: Confluence | JIRA | Trello | etc.
+-	MS Office Suite: Project, Share Point, Otlook, Excel, PowerPoint, etc.
+-	GotoMeeting | Skype | HipChat | Slack | Zoom | MS Teams | Adobe Communicator | etc.
 -	QA Partner / SilkTest
--	VMWare / Virtual PC
--	MS Visual Studio and Team Foundation Server
--	MS Test Manager
--	JMeter
--	= LoadRUnner
--	Perforce
--	Business Objects	
--	Araxis Merge
+-	VMWare | Virtual PC | Docker | etc.
+-	Load & Performance Testing: JMeter | LoadRunner | k6 | Newman | Postman | etc.
+-	Perforce | Business Objects | Araxis Merge | etc.
 -	Limited ASP experience	
--	COM/ATL	
+-	Limited COM/ATL experience
 -	Limited RDS and ADO experience	
 
 CAD Knowledge: 
--	Autodesk AutoCAD
--	Autodesk Inventor
--	Autodesk Mechanical Desktop
--	Solid Works
--	RhinoCAD
--	CADFix
--	STEP, IGES, SAT, ProE, STL
--	Alias
--	DWF, JT, Granite
+-	Autodesk: AutoCAD | Inventor | Mechanical Desktop | etc.
+-	Alias | Solid Works | RhinoCAD | CADFix | etc.
+-	Open Translation Standards: STEP | IGES | SAT | ProE | STL | DWF | JT | Granite | etc.
 
 Database Knowledge:
--	SQL: Oracle, SQLServer, Oracle Designer, MS Access, etc.
--	NoSQL: MongoDB, Postgress, etc.
--	Tableau, Power BI, etc.
--	Scopus
+-	SQL: Oracle | Oracle Designer | SQLServer | MySQL | MS Access | Scopus | PostgreSQL etc.
+-	NoSQL: MongoDB | Redis | Couchbase | etc.
+-	Tableau | Power BI | etc.
 
 Electronics Knowledge:
--	Motorola 68000 Assembly Language
--	Motorola 68HC11
--	CMM Processes
--	CUPL
--	PL/SQL Developer
--	VHDL
--	MicroCap
--	Electronics Workbench
--	LogicWorks
+-	Motorola 68000 Assembly Language | Motorola 68HC11 | CMM Processes | CUPL | PL/SQL Developer | VHDL | MicroCap | Electronics Workbench | LogicWorks
