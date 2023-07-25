@@ -19,30 +19,50 @@ Rocket Mortgage (Quicken Loans) Detroit, MI (2013 - 2023)
 Rocket Mortgage is America’s largest mortgage lender, helping millions achieve the dream of home ownership. They've revolutionized the industry with the world’s very first online mortgage experience.
 
 Team Leader - Architecture (2020 - 2023)
-
-Enterprise Quality Architect (2014 - 2020)
-
 Experienced Software Engineering Leader responsible for delivering innovative, large-scale retail mortgage originations capabilities. 
 
 I was responsible for guiding my agile team to focus on improving the Quality of the entire enterprise, ensuring positive clients experiences, making all of the Rocket Mortgage 6000+ applications and services supported of higher quality, more proficient, more configurable, more resilient and scalable, and more performant.
 
 My team provided best practices and industry standards, accelerating and improving the quality of other development teams' efforts, by developing/encouraging each engineer to growing their knowledge, skills, and behaviors.
 
-I have lead, coached, and developed a team of individual contributor engineer roles with moderate to high complexity. 
+I have led, coached, and developed a team of individual contributor engineer roles with moderate to high complexity. 
 
 I actively mentored less experienced leaders, who are also responsible for building high quality capabilities with modern technology.
 
-Engaged with architects and experienced engineers to incorporate Rocket Mortgage Technology technical strategies, while understanding next generation domain architectures, to enable application migration paths to target architecture; for example, cloud readiness, application modernization and data strategy
+Engaged with architects and experienced engineers to incorporate Rocket Mortgage Technology technical strategies, while understanding next generation domain architectures, to enable application migration paths to target architecture; for example, cloud readiness, application modernization and data strategy.
 
 Functioned as the Product Owner, SCRUM Master, and Technical Representative for our products and services, during cross-team collaborative efforts and planning.
 
-Identified and recommended opportunities for driving resolution of technology roadblocks including code, build and deployment while also managing overall software development cycle and security standards
+Identified and recommended opportunities for driving resolution of technology roadblocks including code, build and deployment while also managing overall software development cycle and security standards.
 
-Acted as an escalation partner for scrum masters and the teams to make decisions and help remove impediments, obstacles, and friction while encouraging constant learning, experimentation, and continual improvement culture
+Acted as an escalation partner for scrum masters and the teams to make decisions and help remove impediments, obstacles, and friction while encouraging constant learning, experimentation, and continual improvement culture.
 
-Built engineering skills side-by-side in the codebase, conduct peer reviews to evaluate quality and solution alignment to technical direction, and guide design, as needed
+•	26+ years of software engineering leadership experience, with relevant software development industry experience in a fast-paced tech environment.
+•	I have excellent communication skills and the ability to work well within a team and with teams across the engineering organization.
+•	I am a strong problem solver and have led a team that is on-call for production systems before.
+•	I am passionate about efficiency, availability, technical quality and system quality.
+•	3+ years of Leadership experience
+•	15+ years of strong design experience in Design Patterns, ATDD/BDD/TDD, Domain Driven Design, and Functional Decomposition into Architectural Design Patterns and Robust Systems.
+•	10+ years of experience with APIs: designing, building, deploying, maintaining, and evangelizing best practices (SOA/microservices). 
+•	10+ years of experience with Microservices, Containers, Databases (Oracle, Mongo), and Pub-Sub messaging (Kafka/ MQ/RabbitMQ)
+•	10+ years of CI/CD tooling experience (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI)
+•	5+ years of Cloud experience
+•	20+ years of Agile (and Waterfall) Methodologies
+•	Ability to deliver and engage with partners effectively in a multi-cultural environment by demonstrating co-ownership and accountability.
+•	Ability to motivate staff to prioritize work, meet deadlines, achieve goals, and work /under pressure in a dynamic and complex environment.
+•	Experience leading individual contributors both onshore and offshore.
+•	Advanced experience in managing and delivering agile/scrum products in technically, complex environments.
+•	Demonstrated team leadership experience including hiring and talent development practices.
+•	Demonstrated experience in managing teams of engineers designing, programming, and deploying solutions for On-Prem and Cloud environments.
+•	Demonstrated experience in leading strategy roadmap in a large technically complex environment.
+•	Demonstrated experience in managing stakeholder relationships across multiple business units or technical domains.
+•	Demonstrated ability to manage a diverse, geographically distributed team.
 
-Interpreted, developed, and ensured: security, stability, and scalability within functions of technology with moderate to high complexity, as well as identifying, managing and mitigating technology and enterprise risk
+
+Enterprise Quality Architect (2014 - 2020)
+Built engineering skills side-by-side in the codebase, conducted peer reviews to evaluate quality and solution alignment to technical direction, and guide design, as needed.
+
+Interpreted, developed, and ensured: security, stability, and scalability within functions of technology with moderate to high complexity, as well as identifying, managing and mitigating technology and enterprise risk.
 
 Collaborated and consulted with the Product Managers/Product Owners to drive user satisfaction, influence technology requirements and priorities in the product roadmap, promote innovative and intelligent solutions, generate corporate value and articulate technical strategy while being a solid advocate of agile and DevOps practices.
 
@@ -50,49 +70,10 @@ Interacted directly with third party vendors and technology service providers, a
 
 Managed allocation of people and financial resources for technology engineering including career development and performance management for business analysts, data engineers, senior software engineers, and other architects on the team.
 
-26+ years of software engineering leadership experience, with relevant software development industry experience in a fast paced tech environment.
-
-I am have excellent communication skills and the ability to work well within a team and with teams across the engineering organization.
-
-I am a strong problem solver and have led a team that is on-call for production systems before.
-
-I am passionate about efficiency, availability, technical quality and system quality.
-
-26+ years of Software Engineering experience
-3+ years of Leadership experience
-15+ years of strong design experience in Design Patterns, ATDD/BDD/TDD, Domain Driven Design, and Functional Decomposition into Architectural Design Patterns and Robust Systems.
-10+ years of experience with APIs: designing, building, deploying, maintaining, and evangelizing best practices (SOA/microservices). 
-10+ years of experience with Microservices, Containers, Databases (Oracle, Mongo), and Pub-Sub messaging (Kafka/ MQ/RabbitMQ)
-10+ years of CI/CD tooling experience (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI)
-5+ years of Cloud experience
-20+ years of Agile (and Waterfall) Methodologies
-
-Ability to deliver and engage with partners effectively in a multi-cultural environment by demonstrating co-ownership and accountability.
-
-Ability to motivate staff to prioritize work, meet deadlines, achieve goals, and work /under pressure in a dynamic and complex environment.
-
-Experience leading individual contributors both onshore and offshore.
-
-Advanced experience in managing and delivering agile/scrum products in technically, complex environments
-
-Demonstrated team leadership experience including hiring and talent development practices
-
-Demonstrated experience in managing teams of engineers designing, programming, and deploying solutions for On-Prem and Cloud environments
-
-Demonstrated experience in leading strategy roadmap in a large technically complex environment
-
-Demonstrated experience in managing stakeholder relationships across multiple business units or technical domains
-
-Demonstrated ability to manage a diverse, geographically distributed team
-Demonstrated technical experience and hands on experience to help be a key driver in all architectural decisions
-
-Banking / Financial Services experience
-
-Excellent organizational and time management skills
-
-Excellent verbal and written communication skills
-
-
+•	Demonstrated technical experience and hands on experience to help be a key driver in all architectural decisions.
+•	Banking / Financial Services experience.
+•	Excellent organizational and time management skills.
+•	Excellent verbal and written communication skills.
 •	Responsible for designing and communicating the vision and strategy for Quality across the entire Rocket Mortgage Technology enterprise (all development teams). I was also responsible for promoting, implementing, and ensuring Quality concepts, solutions, and tooling across all of the "Family-of-Companies" under the Rock Financial corporation.
 o	Several key Quality concepts promoted, documented, and trained upon:
 	All Testing Types [Manual and Automated]: User-interface, unit, integration, end-to-end, performance (JMeter, k6, Newman, etc.), load (LoadRunner/SOASTA, JMeter, etc.), security, monitoring and alerting (Splunk, PagerDuty, CloudWatch, "home-grown-tooling" solutions, etc.), accessibility (AXE), etc.
@@ -100,153 +81,151 @@ o	Code Quality & Design Reviews: Design Patterns, Cleanliness & Readability & Ma
 o	Site Reliability & Reliability Engineering (measured by: Four-Golden-Signals, DORA metrics, ISO 5055, etc.)
 •	Facilitated collaboration across multiple Streams, Release Trains, and delivery teams to ensure implementation of overall standards, best practices, and continuous improvement practices.
 o	Security: Coordinating with Information & Security teams to: validate, ensure, and mitigate risks/attack vectors: People, Processes, and Tooling
-		- Disaster Recovery Strategy & Business Continuity Planning
-		- Championing & Promoting Infrastructure as Code (IAC)
-		- Chaos Engineering & Experimentation (Research and Design)
-		- Ensuring Business Critical Systems are Highly Available and Performant
-		- Operations Management & Systems Administration (People, Processes, and Tooling)
-		- Data Quality: On-Prem & Cloud, Compliance, Lineage, Security, Availability, Storage, Encryption (transit/rest), Integrity, Usability & Compliance, Partitioning & Sharding, Access, etc.
-		- Non-Production and Production Environment Validation
-		- Reporting to C-Suite Executives on the "State of the Union" with respect to "Overall Quality of the entire Rocket Mortgage Technology Enterprise"
+o	Disaster Recovery Strategy & Business Continuity Planning
+o	Championing & Promoting Infrastructure as Code (IAC)
+o	Chaos Engineering & Experimentation (Research and Design)
+o	Ensuring Business Critical Systems are Highly Available and Performant
+o	Operations Management & Systems Administration (People, Processes, and Tooling)
+o	Data Quality: On-Prem & Cloud, Compliance, Lineage, Security, Availability, Storage, Encryption (transit/rest), Integrity, Usability & Compliance, Partitioning & Sharding, Access, etc.
+o	Non-Production and Production Environment Validation
+o	Reporting to C-Suite Executives on the "State of the Union" with respect to "Overall Quality of the entire Rocket Mortgage Technology Enterprise"
 
 
 Senior Quality Assurance Engineer (2013 - 2014)
-- Helped to design, build, test, deploy, monitor, and maintain & support the company’s first hyper-media API
-- Automated User-Interface Testing (self-created C# coded solution, leveraging VSStudio)
-- Unit Testing (C#)
-- Created and maintained CI/CD deployment pipelines (ADS/Jenkins)
-- Implemented SonarQube for the Enterprise & FOCs
-
-Some key professional highlights:
-- I personally ideated, and then implemented a multi-year, cross-company wide SonarQube initiative, for measuring code metrics for all instrumented code bases, across all of our development languages (C#/.Net, PHP, F#, Progress, Angular, JS, TS, Java, etc.). This included setting up all documentation, training, and implementing API based back=end solutions to coordinate CI/CD deployment pipelines (ADS/CircleCI, etc.) to include code scanning/linting for: code smells/defects, security validation (OWASP10+), tech debt identification, unit testing and code coverage, duplicated code, etc.
-	- This lead to safer/better code, less defects escaping into Production, more capable developers who were better trained in their craft.
-- Security: Dynamic Application Security Testing (DAST) scanning initiatives (multi-year, cross-company initiatives, scanning all deployed applications) - leveraging/partnering with Acunetix, and later AppSpider Enterprise (Rapid7) solutions.
-	- Built and implemented multiple solutions for DAST scanning of applications and APIs for all 
-- Large Scale Projects Coordination & Project Management:
-	- Rocket Mortgage launch into AWS
-	- Rocket Mortgage Rebranding (formerly Quick Loans)
-	- Numerous client-facing programs and initiatives, for leads and loans (including generation, origination, servicing and critical business support).
-- Non-Functional Requirements (NFRs aka. "Quality Attributes") Program (co-driver and champion)
-	- Initially focused upon: Code Coverage, Security, Monitoring & Alerting, Documentation, Scalability, Availability, Portability, Maintenance, Usability, Accessibility, etc.
-- Team Member Technical Role Definitions & Responsibilities & Evaluations: TRAC, CPA+, Company/Team Agreements & Expectations, Delivery Effectiveness (Operational Reviews included), etc.
+Personally ideated, and then implemented a multi-year, cross-company wide SonarQube initiative, for measuring code metrics for all instrumented code bases, across all of our development languages (C#/.Net, PHP, F#, Progress, Angular, JS, TS, Java, etc.). This included setting up all documentation, training, and implementing API based back=end solutions to coordinate CI/CD deployment pipelines (ADS/CircleCI, etc.) to include code scanning/linting for: code smells/defects, security validation (OWASP10+), tech debt identification, unit testing and code coverage, duplicated code, etc.
+•	Helped to design, build, test, deploy, monitor, and maintain & support the company’s first hyper-media API
+•	Automated User-Interface Testing (self-created C# coded solution, leveraging VSStudio)
+•	Unit Testing (C#)
+•	Created and maintained CI/CD deployment pipelines (ADS/Jenkins)
+•	Implemented SonarQube for the Enterprise & FOCs
+-	This led to safer/better code, less defects escaping into Production, more capable developers who were better trained in their craft.
+•	Security: Dynamic Application Security Testing (DAST) scanning initiatives (multi-year, cross-company initiatives, scanning all deployed applications) - leveraging/partnering with Acunetix, and later AppSpider Enterprise (Rapid7) solutions.
+•	Built and implemented multiple solutions for DAST scanning of applications and APIs for all 
+•	Large Scale Projects Coordination & Project Management:
+•	Rocket Mortgage launch into AWS
+•	Rocket Mortgage Rebranding (formerly Quick Loans)
+•	Numerous client-facing programs and initiatives, for leads and loans (including generation, origination, servicing and critical business support).
+•	Non-Functional Requirements (NFRs aka. "Quality Attributes") Program (co-driver and champion)
+•	Initially focused upon: Code Coverage, Security, Monitoring & Alerting, Documentation, Scalability, Availability, Portability, Maintenance, Usability, Accessibility, etc.
+•	Team Member Technical Role Definitions & Responsibilities & Evaluations: TRAC, CPA+, Company/Team Agreements & Expectations, Delivery Effectiveness (Operational Reviews included), etc.
 
 
 Tegrit Group – Livonia, MI (2009 - 2013)
 Tegrit Group is a national leader in retirement plan consulting, plan administration and technology services for public and private plan sponsors.
 
 Senior Quality Assurance Engineer (2009 - 2013)
-- Testing Automation
-Initiated, designed, architected, and managed a large scale project to automate testing utilizing coded-UI (C#) test scripts within MSVS. Over 1200 scripts were created by my project team over a 4 month period, resulting in an ongoing operational cost savings of over $4700 per release (as opposed to manual testing).
-- Tegrit Organizational Process Development
-Lead the effort of designing and documenting Tegrit Technologies processes for each phase of a project lifecycle. 
-- Client Relations / UAT
-- Performance Testing
+Initiated, designed, architected, and managed a large-scale project to automate testing utilizing coded-UI (C#) test scripts within MSVS. Created over 1200+ scripts were created by my project team over a 4-month period, resulting in an ongoing operational cost savings of over $4700 per release (as opposed to manual testing).
+•	Created & Maintained Testing Automation
+•	Tegrit Organizational Process Development
+•	Lead the effort of designing and documenting Tegrit Technologies processes for each phase of a project lifecycle. 
+•	Client Relations / UAT
+•	Performance Testing
 
 Responsible for designing, implementing, and conducting:
-- Automated User-Interface Testing
-- Client User Acceptance Testing
-- Load and Performance Testing
-- Business Process Documentation
-- Test Planning & Strategies (based on industry standards and best practices)
+•	Automated User-Interface Testing
+•	Client User Acceptance Testing
+•	Load and Performance Testing
+•	Business Process Documentation
+•	Test Planning & Strategies (based on industry standards and best practices)
 
 
 Autodesk, Inc. – MCAD Division - Novi, MI (1996 – 2009)
-Autodesk, Inc. is a multi-billion dollar world leader in 2D and 3D design software for the manufacturing, building & construction, and media & entertainment markets.
+Autodesk, Inc. is a multi-billion-dollar world leader in 2D and 3D design software for the manufacturing, building & construction, and media & entertainment markets.
 
 Software QA Engineer/Technical Lead (2001 – 2009)
 Responsible for the development and quality assurance of Autodesk products; including code reviews, verifying implementation of new functionality, code coverage, creation and implementation of corporate/division QA standards, and project management. 
-- Managed up to 4 direct reports. Responsible for the management of diverse project teams, and translated high level organizational goals to staff, work tasks, training, and project tracking
-- Coded an automated defect investigation to process recursively, returning results in ~1 minute versus 1 hour for the manual method, resulting in an estimated savings $350,000+ annually
-- Implemented interface for the ITI GDX database into Autodesk’s proprietary code, resulting in a long term project to save $420,000 a year in licensing costs
-- Added XML code validation schema for logging output and enhanced error messaging to the Inventor product resulting in development testing and code coverage and acceptance
-- Utilized Business Objects to interface to an Oracle 10i database via SQL statements to generate numerous testing reports for strategic planning, forecasting, team load balancing, and timely resource allocation
-- Designed, implemented, and maintained, as site collection administrator, several QA Share Point sites increasing team collaboration, as well as project and defect tracking metrics 
-- Created and led project ensuring software was 99% FDCC government regulations compliant (utilizing Secutor Prime compliance tool) which led to a unique competitive advantage and increased product sales
-- Validated networked software, ensuring that IPv6 was enabled and supported (Layer protocol addressing)
-- Wrote sample API application testing code (most notably Space Warping and Feature Patterning code)
+•	Managed up to 4 direct reports. Responsible for the management of diverse project teams, and translated high level organizational goals to staff, work tasks, training, and project tracking.
+•	Coded an automated defect investigation to process recursively, returning results in ~1 minute versus 1 hour for the manual method, resulting in an estimated savings $350,000+ annually.
+•	Implemented interface for the ITI GDX database into Autodesk’s proprietary code, resulting in a long-term project to save $420,000 a year in licensing costs.
+•	Added XML code validation schema for logging output and enhanced error messaging to the Inventor product resulting in development testing and code coverage and acceptance.
+•	Utilized Business Objects to interface to an Oracle 10i database via SQL statements to generate numerous testing reports for strategic planning, forecasting, team load balancing, and timely resource allocation.
+•	Designed, implemented, and maintained, as site collection administrator, including several QA Share Point sites increasing team collaboration, as well as project and defect tracking metrics 
+•	Created and led project ensuring software was 99% FDCC government regulations compliant (utilizing Secutor Prime compliance tool) which led to a unique competitive advantage and increased product sales.
+•	Validated networked software, ensuring that IPv6 was enabled and supported (Layer protocol addressing)
+•	Wrote sample API application testing code (most notably Space Warping and Feature Patterning code)
 
 Software Quality Assurance Analyst (1996 – 2001)
-Quality Assurance Lead for various projects and teams, testing software throughout the software release cycle, including verification of defect tracking and resolution, service packs, and documentation; as well as working directly with customers to yield high quality releases
-- Designed and implemented manual and automated test suites for functional product and regression testing - as well as performance and workflow tests, benchmarking and smoke tests, including white box and black box testing results
-- Managed relationships with outsourced partners (ITI, Spatial, and HSL) coordinating release dates, code integrations, testing and defect resolution, invoicing. Involvement improved product quality, generated cost savings, and increased product functionality
-- Extensive knowledge in CAD 3D geometric modeling kernel integration and interoperability including parametric modeling, assembly data manipulation, and technical drawings. This experience was used to validate the software promoting customer advocacy and workflows
-- Developed and implemented corporate quality assurance standards for testing product performance and reliability; resulting in faster defect resolution, improved team effectiveness, and collaboration
-- Deep understanding and experience in applying state-of-the-art software quality assurance methods, strategies, concepts, and tools
+Quality Assurance Lead for various projects and teams, testing software throughout the software release cycle, including verification of defect tracking and resolution, service packs, and documentation; as well as working directly with customers to yield high quality releases.
+•	Designed and implemented manual and automated test suites for functional product and regression testing - as well as performance and workflow tests, benchmarking and smoke tests, including white box and black box testing results.
+•	Managed relationships with outsourced partners (ITI, Spatial, and HSL) coordinating release dates, code integrations, testing and defect resolution, invoicing. Involvement improved product quality, generated cost savings, and increased product functionality.
+•	Extensive knowledge in CAD 3D geometric modeling kernel integration and interoperability including parametric modeling, assembly data manipulation, and technical drawings. This experience was used to validate software promoting customer advocacy and workflows.
+- Developed and implemented corporate quality assurance standards for testing product performance and reliability; resulting in faster defect resolution, improved team effectiveness, and collaboration.
+- Deep understanding and experience in applying state-of-the-art software quality assurance methods, strategies, concepts, and tools.
 
 
 EDUCATION:
-- Masters of Science in Information Systems: Lawrence Technological University - Southfield, MI (1999 - 2001)
-- Bachelor of Science in Electrical Engineering: Lawrence Technological University - Southfield, MI (1994 - 1998)
-- Certified SOA Architect (2017)
-- I/ASTQB Certified (2011)
+•	Master of Science in Information Systems: Lawrence Technological University - Southfield, MI (1999 - 2001)
+•	Bachelor of Science in Electrical Engineering: Lawrence Technological University - Southfield, MI (1994 - 1998)
+•	Certified SOA Architect (2017)
+•	I/ASTQB Certified (2011)
 
 
 SUMMARY OF TECHNICAL SKILLS:
 Development Languages: 	
-- C / C++ / C# / Java / F#
-- Javascript  / Typescript / Python
-- Visual Basic (VB)
-- UML
-- LISP
-- Perl
-- FORTRAN 77
+-	C / C++ / C# / Java / F#
+-	Javascript  / Typescript / Python
+-	Visual Basic (VB)
+-	UML
+-	LISP
+-	Perl
+-	FORTRAN 77
 
 Web Development: 	
-- GitHub / GitHub Enterprise
-- Visual Source Safe
-- Apache Web Server / MS IIS
-- Object Oriented Design & Patterns
-- HTML & CSS / XML & XLST / React & Angular
-- Adobe Flash CS4
-- FTP
-- AQTime and profiling tools
-- Clarify / Purify
+-	GitHub / GitHub Enterprise
+-	Visual Source Safe
+-	Apache Web Server / MS IIS
+-	Object Oriented Design & Patterns
+-	HTML & CSS / XML & XLST / React & Angular
+-	Adobe Flash CS4
+-	FTP
+-	AQTime and profiling tools
+-	Clarify / Purify
 
 Additional Productivity Tools: 
-- ADS / TFS
-- Atlassian: Confluence, JIRA, etc.
-- MS Office Suite / MS Project
-- Adobe Communicator
-- GotoMeeting
-- Multi-Media/Internet Applications
-- MS Share Point	
-- QA Partner / SilkTest
-- VMWare / Virtual PC
-- MS Visual Studio and Team Foundation Server
-- MS Test Manager
-- JMeter
-= LoadRUnner
-- Perforce
-- Business Objects	
-- Araxis Merge
-- Limited ASP experience	
-- COM/ATL	
-- Limited RDS and ADO experience	
+-	ADS / TFS
+-	Atlassian: Confluence, JIRA, etc.
+-	MS Office Suite / MS Project
+-	Adobe Communicator
+-	GotoMeeting
+-	Multi-Media/Internet Applications
+-	MS Share Point	
+-	QA Partner / SilkTest
+-	VMWare / Virtual PC
+-	MS Visual Studio and Team Foundation Server
+-	MS Test Manager
+-	JMeter
+-	= LoadRUnner
+-	Perforce
+-	Business Objects	
+-	Araxis Merge
+-	Limited ASP experience	
+-	COM/ATL	
+-	Limited RDS and ADO experience	
 
 CAD Knowledge: 
-- Autodesk AutoCAD
-- Autodesk Inventor
-- Autodesk Mechanical Desktop
-- Solid Works
-- RhinoCAD
-- CADFix
-- STEP, IGES, SAT, ProE, STL
-- Alias
-- DWF, JT, Granite
+-	Autodesk AutoCAD
+-	Autodesk Inventor
+-	Autodesk Mechanical Desktop
+-	Solid Works
+-	RhinoCAD
+-	CADFix
+-	STEP, IGES, SAT, ProE, STL
+-	Alias
+-	DWF, JT, Granite
 
 Database Knowledge:
-- SQL: Oracle, SQLServer, Oracle Designer, MS Access, etc.
-- NoSQL: MongoDB, Postgress, etc.
-- Tableau, Power BI, etc.
-- Scopus
+-	SQL: Oracle, SQLServer, Oracle Designer, MS Access, etc.
+-	NoSQL: MongoDB, Postgress, etc.
+-	Tableau, Power BI, etc.
+-	Scopus
 
 Electronics Knowledge:
-- Motorola 68000 Assembly Language
-- Motorola 68HC11
-- CMM Processes
-- CUPL
-- PL/SQL Developer
-- VHDL
-- MicroCap
-- Electronics Workbench
-- LogicWorks
+-	Motorola 68000 Assembly Language
+-	Motorola 68HC11
+-	CMM Processes
+-	CUPL
+-	PL/SQL Developer
+-	VHDL
+-	MicroCap
+-	Electronics Workbench
+-	LogicWorks
