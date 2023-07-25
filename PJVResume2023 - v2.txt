@@ -2,8 +2,8 @@ Peter Varga
 pvarga00@gmail.com
 734-673-1827
 
-LinkedIn: https://www.linkedin.com/in/peter-varga-94592a176/
-GitHubEnterprise: https://github.com/pvarga00 & https://github.com/peterquicken
+LinkedIn: https://www.linkedin.com/in/peter-varga-94592a176/ 
+GitHubEnterprise: https://github.com/pvarga00  & https://github.com/peterquicken 
 
 
 PROFESSIONAL SUMMARY:
@@ -61,7 +61,7 @@ I am passionate about efficiency, availability, technical quality and system qua
 26+ years of Software Engineering experience
 3+ years of Leadership experience
 15+ years of strong design experience in Design Patterns, ATDD/BDD/TDD, Domain Driven Design, and Functional Decomposition into Architectural Design Patterns and Robust Systems.
-10+ years of experience with APIs: desiging, building, deploying, maintaining, and evangelizing best practices (SOA/microservices). 
+10+ years of experience with APIs: designing, building, deploying, maintaining, and evangelizing best practices (SOA/microservices). 
 10+ years of experience with Microservices, Containers, Databases (Oracle, Mongo), and Pub-Sub messaging (Kafka/ MQ/RabbitMQ)
 10+ years of CI/CD tooling experience (GitHub, TFS/ADS, Jenkins, Maven, Gradle, CircleCI)
 5+ years of Cloud experience
@@ -86,26 +86,26 @@ Demonstrated experience in managing stakeholder relationships across multiple bu
 Demonstrated ability to manage a diverse, geographically distributed team
 Demonstrated technical experience and hands on experience to help be a key driver in all architectural decisions
 
-Banking or Financial Services experience
+Banking / Financial Services experience
 
 Excellent organizational and time management skills
 
 Excellent verbal and written communication skills
 
 
-- Responsible for designing and communicating the vision and strategy for Quality across the entire Rocket Mortgage Technology enterprise (all development teams). I was also responsible for promoting, implementing, and ensuring Quality concepts, solutions, and tooling across all of the "Family-of-Companies" under the Rock Financial corporation.
-	- Several key Quality concepts promoted, documented, and trained upon:
-		- All Testing Types [Manual and Automated]: User-interface, unit, integration, end-to-end, performance (JMeter, k6, Newman, etc.), load (LoadRunner/SOASTA, JMeter, etc.), security, monitoring and alterting (Splunk, PagerDuty, CloudWatch, "home-grown-tooling" solutions, etc.), accessibility (AXE), etc.
-		- Code Quality & Design Reviews: Design Patterns, Cleanliness & Readability & Maintainability, Craftsmanship & Stewardship, Reusability, Standardization, Security, Architecture, Source-Control Best Practices, etc.
-		- Site Reliability & Reliability Engineering (measured by: Four-Golden-Signals, DORA metrics, ISO 5055, etc.)
-- Facilitated collaboration across multiple Streams, Release Trains, and delivery teams to ensure implementation of overall standards, best practices, and continuous improvement practices.
-		- Security: Coordinating with Infomation & Security teams to: valiate, ensure, and mitigate risks/attack vectors: People, Processes, and Tooling
+•	Responsible for designing and communicating the vision and strategy for Quality across the entire Rocket Mortgage Technology enterprise (all development teams). I was also responsible for promoting, implementing, and ensuring Quality concepts, solutions, and tooling across all of the "Family-of-Companies" under the Rock Financial corporation.
+o	Several key Quality concepts promoted, documented, and trained upon:
+	All Testing Types [Manual and Automated]: User-interface, unit, integration, end-to-end, performance (JMeter, k6, Newman, etc.), load (LoadRunner/SOASTA, JMeter, etc.), security, monitoring and alerting (Splunk, PagerDuty, CloudWatch, "home-grown-tooling" solutions, etc.), accessibility (AXE), etc.
+o	Code Quality & Design Reviews: Design Patterns, Cleanliness & Readability & Maintainability, Craftsmanship & Stewardship, Reusability, Standardization, Security, Architecture, Source-Control Best Practices, etc.
+o	Site Reliability & Reliability Engineering (measured by: Four-Golden-Signals, DORA metrics, ISO 5055, etc.)
+•	Facilitated collaboration across multiple Streams, Release Trains, and delivery teams to ensure implementation of overall standards, best practices, and continuous improvement practices.
+o	Security: Coordinating with Information & Security teams to: validate, ensure, and mitigate risks/attack vectors: People, Processes, and Tooling
 		- Disaster Recovery Strategy & Business Continuity Planning
 		- Championing & Promoting Infrastructure as Code (IAC)
-		- Chaos Engineering & Experimentation (Reseach and Design)
-		- Ensuring Business Critical Systems are Highly Availabile and Performant
+		- Chaos Engineering & Experimentation (Research and Design)
+		- Ensuring Business Critical Systems are Highly Available and Performant
 		- Operations Management & Systems Administration (People, Processes, and Tooling)
-		- Data Quality: On-Prem & Cloud, Compliance, Lineage, Security, Availability, Storage, Encryption (transit/rest), Integrity, Usability & Compliance, Partioning & Sharding, Access, etc.
+		- Data Quality: On-Prem & Cloud, Compliance, Lineage, Security, Availability, Storage, Encryption (transit/rest), Integrity, Usability & Compliance, Partitioning & Sharding, Access, etc.
 		- Non-Production and Production Environment Validation
 		- Reporting to C-Suite Executives on the "State of the Union" with respect to "Overall Quality of the entire Rocket Mortgage Technology Enterprise"
 
@@ -118,7 +118,7 @@ Senior Quality Assurance Engineer (2013 - 2014)
 - Implemented SonarQube for the Enterprise & FOCs
 
 Some key professional highlights:
-- I personally ideated, and then implemented a multi-year, cross-company wide SonarQube initaitive, for measuring code metrics for all instrumented code bases, across all of our development languages (C#/.Net, PHP, F#, Progress, Angular, JS, TS, Java, etc.). This included setting up all documentation, training, and implementing API based back=end solutions to coordinate CI/CD deployment pipelines (ADS/CircleCI, etc.) to include code scanning/linting for: code smells/defects, security validation (OWASP10+), tech debt identification, unit testing and code coverage, duplicated code, etc.
+- I personally ideated, and then implemented a multi-year, cross-company wide SonarQube initiative, for measuring code metrics for all instrumented code bases, across all of our development languages (C#/.Net, PHP, F#, Progress, Angular, JS, TS, Java, etc.). This included setting up all documentation, training, and implementing API based back=end solutions to coordinate CI/CD deployment pipelines (ADS/CircleCI, etc.) to include code scanning/linting for: code smells/defects, security validation (OWASP10+), tech debt identification, unit testing and code coverage, duplicated code, etc.
 	- This lead to safer/better code, less defects escaping into Production, more capable developers who were better trained in their craft.
 - Security: Dynamic Application Security Testing (DAST) scanning initiatives (multi-year, cross-company initiatives, scanning all deployed applications) - leveraging/partnering with Acunetix, and later AppSpider Enterprise (Rapid7) solutions.
 	- Built and implemented multiple solutions for DAST scanning of applications and APIs for all 
@@ -237,6 +237,7 @@ CAD Knowledge:
 Database Knowledge:
 - SQL: Oracle, SQLServer, Oracle Designer, MS Access, etc.
 - NoSQL: MongoDB, Postgress, etc.
+- Tableau, Power BI, etc.
 - Scopus
 
 Electronics Knowledge:
