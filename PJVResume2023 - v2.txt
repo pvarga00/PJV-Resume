@@ -6,7 +6,7 @@ GitHub: https://github.com/pvarga00  & https://github.com/peterquicken
 
 
 PROFESSIONAL SUMMARY:
-I am an accomplished Software Quality Engineer, full-stack Software Engineer, Enterprise Architect (Quality | API & SOA focused), and Technical Leader/Manager.
+I am an accomplished Software Quality Engineer, Software Engineer (full stack), Enterprise Architect (Quality | Reliability | API & SOA), and Technical Leader/Manager.
 
 I have over 26 years of professional experience in software development, quality assurance, business analysis, large-scale work management and implementation, and large-scale project management (enterprise-wide, and cross-company).
 
@@ -16,8 +16,8 @@ PROFESSIONAL EXPERIENCE:
 Rocket Mortgage Technology [Quicken Loans] - Detroit, MI (2013 - 2023)
 Rocket Mortgage is America’s largest mortgage lender, helping millions achieve the dream of home ownership. They've revolutionized the industry with the world’s very first online mortgage experience.
 
-Team Leader - Architecture (2020 - 2023)
-Experienced Software Engineering Leader responsible for delivering innovative, large-scale retail mortgage originations capabilities. 
+Rocket Mortgage Technology: Team Leader - Architecture (2020 - 2023)
+Experienced Software Engineering Leader responsible for planning, strategy, and delivering innovative, large-scale retail mortgage origination capabilities. 
 
 I was responsible for guiding my agile team to focus on improving Quality and Reliability for the entire enterprise, ensuring positive clients experiences, making Rocket Mortgage’s 6000+ applications and services supported of higher quality, more proficient, more configurable, more resilient and scalable, and more performant.
 
@@ -56,7 +56,7 @@ Acted as an escalation partner for scrum masters and the teams to make decisions
 •	Demonstrated experience in managing stakeholder relationships across multiple business units or technical domains.
 •	Demonstrated ability to manage a diverse, geographically distributed team.
 
-Enterprise Quality Architect (2014 - 2020)
+Rocket Mortgage Technology: Enterprise Quality Architect (2014 - 2020)
 Built engineering skills side-by-side in the codebase, conducted peer reviews to evaluate quality and solution alignment to technical direction, and guide design, as needed.
 
 Interpreted, developed, and ensured: security, stability, and scalability within functions of technology with moderate to high complexity, as well as identifying, managing and mitigating technology and enterprise risk.
@@ -88,8 +88,8 @@ o	Non-Production and Production Environment Validation
 o	Reporting to C-Suite Executives on the "State of the Union" with respect to "Overall Quality of the entire Rocket Mortgage Technology Enterprise"
 
 
-Senior Quality Assurance Engineer (2013 - 2014)
-Personally ideated, and then implemented a multi-year, cross-company wide SonarQube initiative, for measuring code metrics for all instrumented code bases, across all of our development languages (C#/.Net, PHP, F#, Progress, Angular, JS, TS, Java, etc.). This included setting up all documentation, training, and implementing API based back=end solutions to coordinate CI/CD deployment pipelines (ADS/CircleCI, etc.) to include code scanning/linting for: code smells/defects, security validation (OWASP10+), tech debt identification, unit testing and code coverage, duplicated code, etc.
+Rocket Mortgage Technology: Senior Quality Assurance Engineer (2013 - 2014)
+Personally ideated, and then implemented a multi-year, cross-companywide SonarQube initiative, for measuring code metrics for all instrumented code bases, across all of our development languages (C#/.Net, PHP, F#, Progress, Angular, JS, TS, Java, etc.). This included setting up all documentation, training, and implementing API based back=end solutions to coordinate CI/CD deployment pipelines (ADS/CircleCI, etc.) to include code scanning/linting for: code smells/defects, security validation (OWASP10+), tech debt identification, unit testing and code coverage, duplicated code, etc.
 •	Helped to design, build, test, deploy, monitor, and maintain & support the company’s first hyper-media API
 •	Automated User-Interface Testing (self-created C# coded solution, leveraging VSStudio)
 •	Unit Testing (C#)
@@ -110,7 +110,7 @@ Personally ideated, and then implemented a multi-year, cross-company wide SonarQ
 Tegrit Group – Livonia, MI (2009 - 2013)
 Tegrit Group is a national leader in retirement plan consulting, plan administration and technology services for public and private plan sponsors.
 
-Senior Quality Assurance Engineer (2009 - 2013)
+Tegrit: Senior Quality Assurance Engineer (2009 - 2013)
 Initiated, designed, architected, and managed a large-scale project to automate testing utilizing coded-UI (C#) test scripts within MSVS. Created over 1200+ scripts were created by my project team over a 4-month period, resulting in an ongoing operational cost savings of over $4700 per release (as opposed to manual testing).
 •	Created & Maintained Testing Automation
 •	Tegrit Organizational Process Development
@@ -125,10 +125,11 @@ Responsible for designing, implementing, and conducting:
 •	Business Process Documentation
 •	Test Planning & Strategies (based on industry standards and best practices)
 
+
 Autodesk, Inc. – MCAD Division - Novi, MI (1996 – 2009)
 Autodesk, Inc. is a multi-billion-dollar world leader in 2D and 3D design software for the manufacturing, building & construction, and media & entertainment markets.
 
-Software QA Engineer / Technical Lead (2001 – 2009)
+Autodesk : Software QA Engineer / Technical Lead (2001 – 2009)
 Responsible for the development and quality assurance of Autodesk products; including code reviews, verifying implementation of new functionality, code coverage, creation and implementation of corporate/division QA standards, and project management. 
 •	Managed up to 4 direct reports. Responsible for the management of diverse project teams, and translated high level organizational goals to staff, work tasks, training, and project tracking.
 •	Coded an automated defect investigation to process recursively, returning results in ~1 minute versus 1 hour for the manual method, resulting in an estimated savings of $350,000+ annually.
@@ -140,7 +141,7 @@ Responsible for the development and quality assurance of Autodesk products; incl
 •	Validated networked software, ensuring that IPv6 was enabled and supported (Layer protocol addressing)
 •	Wrote sample API application testing code (most notably Space Warping and Feature Patterning code)
 
-Software Quality Assurance Analyst (1996 – 2001)
+Autodesk : Software Quality Assurance Analyst (1996 – 2001)
 Quality Assurance Lead for various projects and teams, testing software throughout the software release cycle, including verification of defect tracking and resolution, service packs, and documentation; as well as working directly with customers to yield high quality releases.
 •	Designed and implemented manual and automated test suites for functional product and regression testing - as well as performance and workflow tests, benchmarking and smoke tests, including white box and black box testing results.
 •	Managed relationships with outsourced partners (ITI, Spatial, and HSL) coordinating release dates, code integrations, testing and defect resolution, invoicing. Involvement improved product quality, generated cost savings, and increased product functionality.
@@ -148,11 +149,14 @@ Quality Assurance Lead for various projects and teams, testing software througho
 - Developed and implemented corporate quality assurance standards for testing product performance and reliability; resulting in faster defect resolution, improved team effectiveness, and collaboration.
 - Deep understanding and experience in applying state-of-the-art software quality assurance methods, strategies, concepts, and tools.
 
+
 EDUCATION:
 •	Certified SOA Architect (2017)
 •	I/ASTQB Certified (2011)
 •	Master of Science in Information Systems: Lawrence Technological University - Southfield, MI (1999 - 2001)
 •	Bachelor of Science in Electrical Engineering: Lawrence Technological University - Southfield, MI (1994 - 1998)
+
+
  
 SUMMARY OF TECHNICAL SKILLS:
 Development Languages: 	
