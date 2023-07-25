@@ -34,9 +34,9 @@ I actively mentored less experienced leaders, who are also responsible for build
 
 Engaged with architects and experienced engineers to incorporate Rocket Mortgage Technology technical strategies, while understanding next generation domain architectures, to enable application migration paths to target architecture; for example, cloud readiness, application modernization and data strategy
 
-Functioned as the technical representative for the product during cross-team collaborative efforts and planning.
+Functioned as the Product Owner, SCRUM Master, and Technical Representative for our products and services, during cross-team collaborative efforts and planning.
 
-Identify and recommend opportunities for driving resolution of technology roadblocks including code, build and deployment while also managing overall software development cycle and security standards
+Identified and recommended opportunities for driving resolution of technology roadblocks including code, build and deployment while also managing overall software development cycle and security standards
 
 Acted as an escalation partner for scrum masters and the teams to make decisions and help remove impediments, obstacles, and friction while encouraging constant learning, experimentation, and continual improvement culture
 
